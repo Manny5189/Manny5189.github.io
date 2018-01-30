@@ -1,0 +1,18 @@
+
+#header {
+  width: 100px;
+  background-color: #63a8a4;
+}
+#nav {width: 100px;
+  background-color: #63a8a4;}
+
+  #narrow {
+  float: right;
+  width: 200px;
+  background: lightblue;
+}
+#wide {
+  float: left;
+  width: calc(100% - 200px);
+  background: lightgreen;
+}
