@@ -6,13 +6,20 @@
 #nav {width: 100px;
   background-color: #63a8a4;}
 
-  #narrow {
-  float: right;
+  #header {
+  float: Left;
   width: 200px;
   background: lightblue;
 }
-#wide {
-  float: left;
+#nav {
+  float: right;
   width: calc(100% - 200px);
   background: lightgreen;
+}
+
+#img {
+    Float: Left;
+  width: calc(100% - 200px);
+  background: lightgreen;
+
 }
